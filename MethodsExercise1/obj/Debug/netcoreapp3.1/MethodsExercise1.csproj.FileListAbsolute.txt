@@ -1,0 +1,14 @@
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.exe
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.deps.json
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.runtimeconfig.json
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.runtimeconfig.dev.json
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.dll
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.pdb
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.AssemblyInfo.cs
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.dll
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.pdb
+C:\Users\charl\Desktop\2nd Repos\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.genruntimeconfig.cache
